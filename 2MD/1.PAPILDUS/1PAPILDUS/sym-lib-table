@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name AAA)(type Legacy)(uri C:/Users/alber/Desktop/2MD/1.PAPILDUS/1PAPILDUS/AAA.lib)(options "")(descr ""))
+  (lib (name BC548)(type Legacy)(uri C:/Users/alber/Desktop/2MD/1.PAPILDUS/1PAPILDUS/BC548.lib)(options "")(descr ""))
+)
